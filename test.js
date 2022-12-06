@@ -1,1 +1,3 @@
-/*Test file*/
+/*Test file
+
+end of test*/
